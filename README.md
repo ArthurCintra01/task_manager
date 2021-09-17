@@ -1,4 +1,4 @@
-# Desafio Web Developer Euax
+# Projeto Task Manager
 
 Este programa apresenta um sistema de cadastro de projetos com datas de início e fim e um número ilimitado de atividades para cada projeto.
 
